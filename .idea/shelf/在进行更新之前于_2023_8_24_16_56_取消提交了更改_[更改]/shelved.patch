@@ -1,0 +1,23 @@
+Index: .ignore
+===================================================================
+diff --git a/.ignore b/.ignore
+deleted file mode 100644
+--- a/.ignore	(revision 061cd473c07feb095e6ad60f3c11736b8dc58b5e)
++++ /dev/null	(revision 061cd473c07feb095e6ad60f3c11736b8dc58b5e)
+@@ -1,1 +0,0 @@
+-.idea
+Index: .idea/.gitignore
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+deleted file mode 100644
+--- a/.idea/.gitignore	(revision 061cd473c07feb095e6ad60f3c11736b8dc58b5e)
++++ /dev/null	(revision 061cd473c07feb095e6ad60f3c11736b8dc58b5e)
+@@ -1,8 +0,0 @@
+-# 默认忽略的文件
+-/shelf/
+-/workspace.xml
+-# 基于编辑器的 HTTP 客户端请求
+-/httpRequests/
+-# Datasource local storage ignored files
+-/dataSources/
+-/dataSources.local.xml
